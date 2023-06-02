@@ -1,3 +1,6 @@
+## About
+This Project performs traditional non-learning-based object tracking techniques to track specific objects in test sequences.
+
 ## Instructions
 
 1. Navigate to the directory containing source code `src`
@@ -13,3 +16,7 @@ Example command for `CarTracker.py`: `python3 CarTracker.py -m 2 -c affine`
 2. Open a terminal and compile the file `live_demo.py` using `python3 live_demo.py`
 3. A window contaning image from live webcam will appear on your screen. Choose the top-left point of the template you want to track followed by the botton right point of the same. The algorithm will start to track this template now.
 4. Press `ESC` to exit.
+
+## Collaborators
+
+Done with [Deepak](https://github.com/deepakkhichar) as a part of the course COL780 - Computer Vision at IIT Delhi
